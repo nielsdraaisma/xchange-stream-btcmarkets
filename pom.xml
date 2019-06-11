@@ -32,7 +32,7 @@
             </releases>
         </repository>
     </repositories>
-    
+
     <dependencies>
         <dependency>
             <groupId>info.bitrich.xchange-stream</groupId>
